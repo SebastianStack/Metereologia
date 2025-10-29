@@ -59,7 +59,7 @@ Estoy completamente disponible para incorporarme al equipo de METEOROLOGICA
 Agradezco la oportunidad de participar en este proceso de selección y espero su respuesta.
 
 Atentamente,  
-Sebastian Leal Villarreal    
+Sebastian Leal Villarreal  
 692518029
 leal47164@gmail.com
 
