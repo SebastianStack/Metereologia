@@ -17,12 +17,12 @@ Me complace presentar la solución completa para la prueba técnica solicitada. 
 
 ## 🚀 Demostración
 
-**Repositorio GitHub:** https://github.com/SebastianStack/visualizar-datos-de-predicci-n-meteorol-gica.git
+**Repositorio GitHub:** https://github.com/SebastianStack/Metereologia.git
 
 ### Instrucciones de Instalación:
 ```bash
-git clone https://github.com/SebastianStack/visualizar-datos-de-predicci-n-meteorol-gica.git
-cd visualizar-datos-de-predicci-n-meteorol-gica
+git clone https://github.com/SebastianStack/Metereologia.git
+cd Metereologia
 npm install
 npm run dev
 ```
@@ -50,19 +50,19 @@ Esta solución no solo cumple con los requisitos técnicos, sino que demuestra:
 Quedo a su disposición para:
 - Demostración en vivo de la aplicación
 - Explicación técnica detallada de la implementación
-- Discusión sobre posibles mejoras o características adicionales
 - Entrevista técnica presencial o virtual
 
 ## 🤝 Disponibilidad
 
-Estoy completamente disponible para incorporarme al equipo de METEOROLOGICA y contribuir al desarrollo de sus proyectos innovadores en el sector meteorológico.
+Estoy completamente disponible para incorporarme al equipo de METEOROLOGICA 
 
 Agradezco la oportunidad de participar en este proceso de selección y espero su respuesta.
 
 Atentamente,  
-[Tu Nombre]  
-[Tu Teléfono]  
-[Tu Email]
+Sebastian Leal Villarreal    
+692518029
+leal47164@gmail.com
+
 
 ---
 *Desarrollado con React 18, TypeScript, Vite, Chart.js y mucha pasión por crear soluciones de calidad.*
