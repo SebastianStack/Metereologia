@@ -60,9 +60,10 @@ Estoy completamente disponible para incorporarme al equipo de METEOROLOGICA y co
 Agradezco la oportunidad de participar en este proceso de selección y espero su respuesta.
 
 Atentamente,  
-[Tu Nombre]  
-[Tu Teléfono]  
-[Tu Email]
+Sebastian Leal Villarreal  
+692518029
+leal47164@gmail.com
+
 
 ---
 *Desarrollado con React 18, TypeScript, Vite, Chart.js y mucha pasión por crear soluciones de calidad.*
